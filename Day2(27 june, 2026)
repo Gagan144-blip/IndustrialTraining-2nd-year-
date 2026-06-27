@@ -1,0 +1,139 @@
+# 📅 Day 2 – Python Operators
+
+## 📖 Topics Covered
+
+Today, I learned about different types of operators in Python and how they are used to perform various operations on variables and values.
+
+### 🔹 Arithmetic Operators
+
+* Addition (`+`)
+* Subtraction (`-`)
+* Multiplication (`*`)
+* Division (`/`)
+* Modulus (`%`)
+* Floor Division (`//`)
+* Exponentiation (`**`)
+
+**Practice:**
+
+* Calculated sum, difference, product, and quotient of two numbers.
+* Checked whether a number is even or odd using the modulus operator.
+* Performed floor division on floating-point numbers.
+
+---
+
+### 🔹 Comparison Operators
+
+* Greater than (`>`)
+* Less than (`<`)
+* Equal to (`==`)
+* Not Equal to (`!=`)
+* Greater than or Equal to (`>=`)
+* Less than or Equal to (`<=`)
+
+**Practice:**
+
+* Compared two integer values.
+* Checked equality and inequality between variables.
+
+---
+
+### 🔹 Logical Operators
+
+* AND (`and`)
+* OR (`or`)
+* NOT (`not`)
+
+**Practice:**
+
+* Evaluated logical expressions using Boolean variables.
+
+---
+
+### 🔹 Bitwise Operators
+
+* AND (`&`)
+* OR (`|`)
+* XOR (`^`)
+* Left Shift (`<<`)
+* Right Shift (`>>`)
+
+**Practice:**
+
+* Performed bitwise operations on integers.
+* Shifted bits left and right to understand binary manipulation.
+
+---
+
+### 🔹 Assignment Operators
+
+* Assignment (`=`)
+* Compound Assignment (`+=`)
+
+**Practice:**
+
+* Assigned values between variables.
+* Updated variables using compound assignment operators.
+
+---
+
+### 🔹 Membership Operator
+
+* `in`
+
+**Practice:**
+
+* Checked whether a value exists inside a list.
+
+---
+
+### 🔹 String Operators
+
+* Concatenation (`+`)
+* Repetition (`*`)
+
+**Practice:**
+
+* Joined two strings.
+* Repeated a string multiple times.
+
+---
+
+### 🔹 Increment Operation
+
+Since Python does **not** have `++` or `--` operators, I learned to increment a variable using:
+
+```python
+x += 1
+```
+
+---
+
+## 💻 Practice Programs
+
+I completed practice programs on:
+
+1. Arithmetic operations
+2. Even/Odd check using modulus
+3. Comparison operators
+4. Logical operators
+5. Bitwise operations
+6. Floor division
+7. String concatenation
+8. Incrementing variables
+9. Membership operator
+10. Assignment operator
+11. Compound assignment
+12. Left shift operator
+13. String repetition
+14. Equality and inequality operators
+15. Right shift operator
+
+---
+
+## 🎯 Key Takeaways
+
+* Understood the purpose of different Python operators.
+* Learned how operators work with numbers, strings, lists, and Boolean values.
+* Practiced writing small programs using each operator type.
+* Built a strong foundation for solving logical problems and writing efficient Python code.
