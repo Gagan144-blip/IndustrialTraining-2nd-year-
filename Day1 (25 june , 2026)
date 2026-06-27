@@ -1,6 +1,6 @@
-# Industrial Training - Day 1 (Python Basics)
+6 weeks Training - Day 1 (Python Basics)
 
-**Date:** 25 June 2026
+Date: 25 June 2026
 
 ## Topics Covered
 
@@ -30,17 +30,16 @@ Today was the first day of my 4-week Industrial Training program. I revised and 
 
 ### 3. User Input
 
-* Learned how to take input using the `input()` function.
-* Accepted user data such as:
+- Learned how to take input using the `input()` function.
+- Accepted user data such as:
+   Name
+   Age
+   Marks
+   Temperature
+   Numbers
 
-  * Name
-  * Age
-  * Marks
-  * Temperature
-  * Numbers
-* Performed calculations using user input.
-* Calculated:
-
+- Performed calculations using user input.
+- Calculated:
   * Sum of two numbers
   * Square of a number
   * Area of a rectangle
@@ -48,48 +47,45 @@ Today was the first day of my 4-week Industrial Training program. I revised and 
 
 ### 4. Type Casting
 
-* Learned how to convert data between different types.
-* Practiced:
+- Learned how to convert data between different types.
+- Practiced:
 
-  * Integer to Float
-  * Float to Integer
-  * Integer to String
-  * String to Integer
-* Understood the importance of type conversion when taking user input.
+   Integer to Float
+   Float to Integer
+   Integer to String
+   String to Integer
+- Understood the importance of type conversion when taking user input.
 
 ### 5. Data Types
 
-* Explored basic Python data types:
-
-  * Integer (`int`)
-  * Float (`float`)
-  * String (`str`)
-  * Boolean (`bool`)
-* Used the `type()` function to identify data types.
-* Checked the data type of user inputs and variables.
+- Explored basic Python data types:
+   Integer (`int`)
+   Float (`float`)
+   String (`str`)
+   Boolean (`bool`)
+- Used the `type()` function to identify data types.
+- Checked the data type of user inputs and variables.
 
 ### 6. Python Syntax
+- Practiced correct Python syntax and indentation.
+- Wrote simple programs using:
 
-* Practiced correct Python syntax and indentation.
-* Wrote simple programs using:
-
-  * Variables
-  * Print statements
-  * If statements
-* Created a program to check whether a number is positive.
+  Variables
+  Print statements
+  If statements
+- Created a program to check whether a number is positive.
 
 ## Key Learnings
 
-* Understanding of Python basics and syntax.
-* Working with variables and user input.
-* Performing type conversion.
-* Identifying different data types.
-* Writing simple decision-making programs using `if` statements.
+Understanding of Python basics and syntax.
+Working with variables and user input.
+Performing type conversion.
+Identifying different data types.
+Writing simple decision-making programs using `if` statements.
 
 ## Total Practice
-
-* Solved approximately 45+ beginner-level Python programs covering Python fundamentals.
+- Solved approximately 45+ beginner-level Python programs covering Python fundamentals.
 
 ## Conclusion
-
-Day 1 focused on building a strong foundation in Python programming. The practice exercises helped me understand variables, input handling, type casting, data types, and basic syntax, which will be useful for upcoming training sessions.
+Day 1 focused on building a strong foundation in Python programming. The practice exercises helped me understand variables,
+input handling, type casting, data types, and basic syntax, which will be useful for upcoming training sessions.
