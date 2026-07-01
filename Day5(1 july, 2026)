@@ -1,0 +1,44 @@
+# Day 5 – Python Dictionaries
+
+## Topics Covered
+
+Today, I learned about Python dictionaries and practiced performing common dictionary operations.
+
+### Concepts Learned
+
+* Creating dictionaries
+* Accessing values using keys
+* Adding new key-value pairs
+* Updating existing values
+* Removing elements using:
+
+  * `pop()`
+  * `popitem()`
+  * `del`
+  * `clear()`
+* Dictionary methods:
+
+  * `keys()`
+  * `values()`
+  * `items()`
+  * `get()`
+  * `update()`
+  * `copy()`
+* Checking if a key exists using `in`
+* Iterating through dictionaries
+* Nested dictionaries
+
+## Practice
+
+* Created dictionaries with different data types.
+* Added, updated, and removed key-value pairs.
+* Accessed dictionary keys, values, and items.
+* Iterated through dictionaries using loops.
+* Solved practice problems based on dictionary operations and nested dictionaries.
+
+## Key Takeaways
+
+* Learned how dictionaries store data as key-value pairs.
+* Understood how to efficiently access and modify dictionary data.
+* Gained hands-on experience with commonly used dictionary methods.
+* Improved problem-solving skills through dictionary-based exercises.
